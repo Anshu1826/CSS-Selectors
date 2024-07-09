@@ -18,15 +18,15 @@ Exploring the Basic Selectors
 
 Now, exploring the advanced selectors
 1. Categorical selector {
-1. Descendant (  ){space}
-2. Child ( > ) 
-3. General Sibling ( ~ )
-4. Adjacent Sibling ( + )
+1.1. Descendant (  ){space}
+1.2. Child ( > ) 
+1.3. General Sibling ( ~ )
+1.4. Adjacent Sibling ( + )
 }
 
 2. Pseudo Classes
 3. Structural Pseudo Elements
 4. String Matching { 
-1. Starts with ( ^= )
-2. Ends with ( $= )
-3. Anything in between ( *= )
+4.1. Starts with ( ^= )
+4.2. Ends with ( $= )
+4.3. Anything in between ( *= )
